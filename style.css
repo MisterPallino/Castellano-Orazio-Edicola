@@ -1,1 +1,31 @@
-
+.verical_menu {
+  background-color: rgb(177, 34, 68);
+  border: 3px solid black;
+  whidth: 80%;
+  heigth: auto;
+}
+#content_main {
+  background-color: rgb(67, 180, 45);
+  border: 3px solid green;
+  whidt: 60%;
+  height: auto;
+}
+#sfondo_popup {
+  background-color: rgb(88, 55, 110);
+  bprder: 3px solid red;
+  whidt: 20%:
+  height: 40%;
+}
+#block_1 {
+  background-color: rgb(255, 0, 0);
+  border: 3px solid yellow;
+  whidt: 20%;
+  height: 20%;
+}
+#block_2 {
+  background-color: rgb(0, 255, 0);
+  border: 3px solid green;
+  whidt: 20%;
+  height: 20%;
+}
+  
